@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128284907250",
+    "project_id": "cardshop-a7522",
+    "storage_bucket": "cardshop-a7522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128284907250:android:4a5927d55a9bea707c626b",
+        "android_client_info": {
+          "package_name": "gr.uth.cardshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128284907250-5cbdjusvl38v6bc3r94trcp5c6tr6h76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJvx0Z7Kj1OhLAxRhonWfwvQ_1YI1DQ48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128284907250-5cbdjusvl38v6bc3r94trcp5c6tr6h76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
